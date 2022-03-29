@@ -16,3 +16,4 @@ numpy
 matplotlib   
 
 ```
+![Mar-29-2022 13-45-19](https://user-images.githubusercontent.com/81940655/160535166-2f66ceaf-41d5-4035-bb9d-dda5ec0924c1.gif)
